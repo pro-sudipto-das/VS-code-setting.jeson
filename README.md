@@ -1,1 +1,1 @@
-# VS-code-setting.jeson
+# VS-code-setting.json
